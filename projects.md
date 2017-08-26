@@ -22,5 +22,6 @@ permalink: /projects/
 ### [The Counterfeit Christian by Benjamin Keach](https://particularbaptists.gitbooks.io/the-counterfeit-christian/)
 
 * A Book by Benjamin Keach
+* [Github Repository](https://github.com/ParticularBaptists/the-counterfeit-christian)
 * Project Lead: [Vishal Reddy](https://github.com/vishal-reddy)
 * PRs Welcome
