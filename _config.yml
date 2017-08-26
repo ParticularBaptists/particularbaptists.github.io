@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Particular Baptists Community
+title: Particular Baptists Open Source Community
 email: particularbaptists [a t] gmail.com
 description: A Particular Baptist Open Source Software Initiative Designed to Foster Reformed and Calvinistic Baptist Collaboration Around Historical Resources
 baseurl: "" # the subpath of your site, e.g. /blog
